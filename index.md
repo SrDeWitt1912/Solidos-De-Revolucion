@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Solidos de revolución 💠
 
-You can use the [editor on GitHub](https://github.com/SrDeWitt1912/Solidos_De_Revolucion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Primero ha de leer la [Documentación](https://github.com/SrDeWitt1912/Solidos_De_Revolucion/blob/811d4283984b43a37661df42ec46a7885c2689c2/Vol%C3%BAmenes%20de%20s%C3%B3lidos.pdf) 📚
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tras leer la documentación puedes pasar a descargar el APK para instalar la aplicación.
 
-### Markdown
+- Descarga la versión ligera que requiere conexión a internet. [Aquí]()
+- Descarga la versión completa que no requiere conexión a internet. [Aquí]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Explicación de la estructura de la aplicación ⚙️
+<details>
+  <summary>Menú inicial 🏠</summary>
+  
+<p align="center">
+  <img src="https://github.com/SrDeWitt1912/Solidos_De_Revolucion/blob/eaabdbc16efeee0886752263943a203703f82c0e/Assets/Menu.png" alt="Menu inicial"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+De arriba a abajo:
+- El botón con la X tiene como función cerrar la aplicación.
+- Al presionar el botón "Módulo AR" se abrirá el siguiente panel:
 
-# Header 1
-## Header 2
-### Header 3
+<p align="center">
+  <img src="https://github.com/SrDeWitt1912/Solidos_De_Revolucion/blob/0d03c05bab67e9867ed611ac38d0ce01bdb9822b/Assets/Menu%20Seleccion%20AR.png" alt="Selección de modo AR"/>
+</p>
 
-- Bulleted
-- List
+- En este menú podrá elegir el modo de visualización en realidad aumentada. Puede ser por Target (Celulares sin capacidad ARCore) o por el metodo tradicional de ARCore.
+- Al presionar el botón "Módulo 3D" será transportado a elegir el modelo que desea visualizar.
+- Al presionar el botón "Módulo de video" será transportado a elegir el video que desee reproducir (Están ordenados del mismo modo que la documentación).
+- Al presionar el botón "Módulo de documentación" será transportado a elegir el documento que está dispuesto como material de apoyo, también en la plataforma. [Aquí](https://github.com/SrDeWitt1912/Solidos_De_Revolucion/blob/811d4283984b43a37661df42ec46a7885c2689c2/Vol%C3%BAmenes%20de%20s%C3%B3lidos.pdf)
+</details>
 
-1. Numbered
-2. List
+<details>
+  <summary>Módulo AR (Target) 🧊</summary>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SrDeWitt1912/Solidos_De_Revolucion/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
