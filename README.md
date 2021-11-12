@@ -7,6 +7,6 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
 - Descarga la versión ligera que requiere conexión a internet. [Aquí]()
 - Descarga la versión completa que no requiere conexión a internet. [Aquí]()
 
-## Explicación de la estructura de la aplicación
+## Explicación de la estructura de la aplicación ⚙️
 
 ### Menú inicial
