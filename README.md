@@ -8,8 +8,9 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
 - Descarga la versión completa que no requiere conexión a internet. [Aquí]()
 
 ## Explicación de la estructura de la aplicación ⚙️
-
-### Menú inicial 🏠
+<details>
+  <summary>Menú inicial 🏠</summary>
+  
 <p align="center">
   <img src="https://github.com/SrDeWitt1912/Solidos_De_Revolucion/blob/eaabdbc16efeee0886752263943a203703f82c0e/Assets/Menu.png" alt="Menu inicial"/>
 </p>
@@ -26,5 +27,8 @@ De arriba a abajo:
 - Al presionar el botón "Módulo 3D" será transportado a elegir el modelo que desea visualizar.
 - Al presionar el botón "Módulo de video" será transportado a elegir el video que desee reproducir (Están ordenados del mismo modo que la documentación).
 - Al presionar el botón "Módulo de documentación" será transportado a elegir el documento que está dispuesto como material de apoyo, también en la plataforma. [Aquí](https://github.com/SrDeWitt1912/Solidos_De_Revolucion/blob/811d4283984b43a37661df42ec46a7885c2689c2/Vol%C3%BAmenes%20de%20s%C3%B3lidos.pdf)
+</details>
 
-### Módulo AR (Target) 🧊
+<details>
+  <summary>Módulo AR (Target) 🧊</summary>
+
