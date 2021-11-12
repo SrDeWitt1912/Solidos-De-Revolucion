@@ -14,7 +14,7 @@ De arriba a abajo:
 - El botón con la X tiene como función cerrar la aplicación.
 - Al presionar el botón "Módulo AR" se abrirá el siguiente panel:
 
-![Seleccion AR](/_docs/assets/Menu Seleccion AR.png)
+![Seleccion AR](/_docs/assets/Menu_Seleccion_AR.png)
 
 - En este menú podrá elegir el modo de visualización en realidad aumentada. Puede ser por Target (Celulares sin capacidad ARCore) o por el metodo tradicional de ARCore.
 - Al presionar el botón "Módulo 3D" será transportado a elegir el modelo que desea visualizar.
