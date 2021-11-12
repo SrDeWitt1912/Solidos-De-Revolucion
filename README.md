@@ -1,3 +1,3 @@
 # Solidos de revolución
 
-- [Documentación](#Volúmenes de sólidos.pdf)
+- [Documentación](Solidos_De_Revolucion/Volúmenes de sólidos.pdf)
