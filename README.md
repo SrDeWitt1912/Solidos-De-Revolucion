@@ -1,4 +1,4 @@
-# Solidos de revolución
+# Solidos de revolución 💠
 
 ## Primero ha de leer la [Documentación](https://github.com/SrDeWitt1912/Solidos_De_Revolucion/blob/811d4283984b43a37661df42ec46a7885c2689c2/Vol%C3%BAmenes%20de%20s%C3%B3lidos.pdf) 📚
 
@@ -9,7 +9,7 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
 
 ## Explicación de la estructura de la aplicación ⚙️
 
-### Menú inicial
+### Menú inicial 🏠
 <p align="center">
   <img src="https://github.com/SrDeWitt1912/Solidos_De_Revolucion/blob/eaabdbc16efeee0886752263943a203703f82c0e/Assets/Menu.png" alt="Menu inicial"/>
 </p>
