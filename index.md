@@ -11,6 +11,8 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
   <a href="https://ibb.co/DD50h2X"><img src="https://i.ibb.co/kgQNjCn/Menu.png" alt="Menu" border="0"></a>
   <a href="https://ibb.co/1Gts08g"><img src="https://i.ibb.co/CK3Jwhc/Menu-Seleccion-AR.png" alt="Menu-Seleccion-AR" border="0"></a>
   <a href="https://ibb.co/vXvKcFq"><img src="https://i.ibb.co/hY1tg69/Seleccion-Video.png" alt="Seleccion-Video" border="0"></a>
+  <a href="https://ibb.co/gmSs9Zq"><img src="https://i.ibb.co/mb9QT5Z/imagen-2021-11-13-115826.png" alt="imagen-2021-11-13-115826" border="0"></a>
+  <a href="https://ibb.co/vD0Dc7J"><img src="https://i.ibb.co/pnYn1t3/3D-Lobby.png" alt="3D_Lobby" border="0"></a>
   <a href="https://ibb.co/68bmH86"><img src="https://i.ibb.co/jzGTyz7/Ejemplo-3-D.png" alt="Ejemplo-3-D" border="0"></a>
   <a href="https://ibb.co/svs97V0"><img src="https://i.ibb.co/7Jrth1w/Video-Lobby.png" alt="Video-Lobby" border="0"></a>
   <a href="https://ibb.co/brNM773"><img src="https://i.ibb.co/fCrzQQS/Video-Ejemplo.png" alt="Video-Ejemplo" border="0"></a>
@@ -46,12 +48,16 @@ De arriba a abajo:
 
 ### Módulo AR (Target) 🧊
 
-![AR Lobby]()
+<p align="center">
+  <a href="https://ibb.co/gmSs9Zq"><img src="https://i.ibb.co/mb9QT5Z/imagen-2021-11-13-115826.png" alt="imagen-2021-11-13-115826" border="0"></a>
+</p>
 ![AR Target Ejemplo]()
 
 ### Módulo AR (ARCore) 🧊
 
-![AR Lobby]()
+<p align="center">
+  <a href="https://ibb.co/gmSs9Zq"><img src="https://i.ibb.co/mb9QT5Z/imagen-2021-11-13-115826.png" alt="imagen-2021-11-13-115826" border="0"></a>
+</p>
 ![ARCore Ejemplo]()
 
 ### Módulo 3D 🧊
@@ -63,8 +69,8 @@ En el módulo 3D podrás acceder a un entorno virtual con tintes de interactivid
 - Visualización de planos que cortan a la figura (Activables individualmente).
 - Visualización de ejes cartesianos (Activables individualmente).
 
-![3D Lobby]()
 <p align="center">
+  <a href="https://ibb.co/vD0Dc7J"><img src="https://i.ibb.co/pnYn1t3/3D-Lobby.png" alt="3D_Lobby" border="0"></a>
   <a href="https://ibb.co/68bmH86"><img src="https://i.ibb.co/jzGTyz7/Ejemplo-3-D.png" alt="Ejemplo-3-D" border="0"></a>
 </p>
 
