@@ -19,7 +19,7 @@ De arriba a abajo:
 - En este menú podrá elegir el modo de visualización en realidad aumentada. Puede ser por Target (Celulares sin capacidad ARCore) o por el metodo tradicional de ARCore.
 - Al presionar el botón "Módulo 3D" será transportado a elegir el modelo que desea visualizar.
 - Al presionar el botón "Módulo de video" será transportado a elegir el video que desee reproducir (Están ordenados del mismo modo que la documentación).
-- Al presionar el botón "Módulo de documentación" será transportado a elegir el documento que está dispuesto como material de apoyo, también en la plataforma. [Aquí](https://github.com/SrDeWitt1912/Solidos_De_Revolucion/blob/811d4283984b43a37661df42ec46a7885c2689c2/Vol%C3%BAmenes%20de%20s%C3%B3lidos.pdf)
+- Al presionar el botón "Módulo de documentación" será transportado a elegir el documento que está dispuesto como material de apoyo, también en la plataforma. [Aquí](/_docs/assets/Volumenes_de_solidos.pdf)
 
 ### Módulo AR (Target) 🧊
 
