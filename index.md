@@ -61,6 +61,13 @@ De arriba a abajo:
   <img src="/_docs/assets/Ejemplo_3D.png" alt="Ejemplo 3D"/>
 </p>
 
+En el módulo 3D podrás acceder a un entorno virtual con tintes de interactividad que incluye las siguientes caracteristicas:
+- Movimiento en 3 dimensiones (Rotación, Zoom).
+- Visualización de malla triangulada (Doble toque sobre el sólido).
+- Representación grafica de sumas de Riemann (Botones ➕ y ➖).
+- Visualización de planos que cortan a la figura (Activables individualmente).
+- Visualización de ejes cartesianos (Activables individualmente).
+
 ### Módulo de video 📽️
 
 <p align="center">
