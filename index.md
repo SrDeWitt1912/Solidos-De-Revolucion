@@ -8,7 +8,7 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
 ## Vistazo de la aplicación 👁
 
 <p align="center">
-  <img src="/_docs/assets/Menu.png"/>
+  <img src="https://github.com/SrDeWitt1912/Solidos-De-Revolucion/blob/8d30a3cf00523971aca47596cc2b091fddde8cdf/_docs/assets/Menu.png"/>
   <img src="/_docs/assets/Menu_Seleccion_AR.png"/>
   <img src="/_docs/assets/Seleccion_Video.png"/>
   <img src="/_docs/assets/Ejemplo_3D.png"/>
