@@ -5,7 +5,7 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
 - Descarga la versión ligera que requiere conexión a internet. [Aquí]()
 - Descarga la versión completa que **no** requiere conexión a internet. [Aquí]()
 
-## Vistazo de la aplicación
+## Vistazo de la aplicación 👁
 
 ![Menu inicial](/_docs/assets/Menu.png)
 ![Seleccion AR](/_docs/assets/Menu_Seleccion_AR.png)
@@ -61,3 +61,8 @@ De arriba a abajo:
 
 ![Lobby Documentacion](/_docs/assets/Documentacion_Lobby.png)
 ![Ejemplo Documentacion](/_docs/assets/Documentacion_Ejemplo.png)
+
+
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
