@@ -18,6 +18,7 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
   <a href="https://ibb.co/brNM773"><img src="https://i.ibb.co/fCrzQQS/Video-Ejemplo.png" alt="Video-Ejemplo" border="0"></a>
   <a href="https://ibb.co/9wZJ41s"><img src="https://i.ibb.co/tZLS2v8/Documentacion-Lobby.png" alt="Documentacion-Lobby" border="0"></a>
   <a href="https://ibb.co/CBTkS1H"><img src="https://i.ibb.co/Y2qzVRL/Documentacion-Ejemplo.png" alt="Documentacion-Ejemplo" border="0"></a>
+  <a href="https://ibb.co/qgqdN55"><img src="https://i.ibb.co/s1x2KHH/imagen-2021-11-13-140350.png" alt="imagen-2021-11-13-140350" border="0"></a>
  </p>
 
 ## Explicación de la estructura de la aplicación ⚙️
@@ -90,5 +91,6 @@ En el módulo de documentación podrá tener acceso dentro de la aplicación a l
 <p align="center">
   <a href="https://ibb.co/9wZJ41s"><img src="https://i.ibb.co/tZLS2v8/Documentacion-Lobby.png" alt="Documentacion-Lobby" border="0"></a>
   <a href="https://ibb.co/CBTkS1H"><img src="https://i.ibb.co/Y2qzVRL/Documentacion-Ejemplo.png" alt="Documentacion-Ejemplo" border="0"></a>
+  <a href="https://ibb.co/qgqdN55"><img src="https://i.ibb.co/s1x2KHH/imagen-2021-11-13-140350.png" alt="imagen-2021-11-13-140350" border="0"></a>
 </p>
 
