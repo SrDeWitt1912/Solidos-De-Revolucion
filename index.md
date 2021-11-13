@@ -7,32 +7,39 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
 
 ## Vistazo de la aplicación 👁
 
-![Menu inicial](/_docs/assets/Menu.png)
-![Seleccion AR](/_docs/assets/Menu_Seleccion_AR.png)
-![Seleccion Video](/_docs/assets/Seleccion_Video.png)
-![Ejemplo 3D](/_docs/assets/Ejemplo_3D.png)
-![Lobby Video](/_docs/assets/Video_Lobby.png)
-![Ejemplo Video](/_docs/assets/Video_Ejemplo.png)
-![Lobby Documentacion](/_docs/assets/Documentacion_Lobby.png)
-![Ejemplo Documentacion](/_docs/assets/Documentacion_Ejemplo.png)
-
+<p align="center">
+  <img src="/_docs/assets/Menu.png"/>
+  <img src="/_docs/assets/Menu_Seleccion_AR.png"/>
+  <img src="/_docs/assets/Seleccion_Video.png"/>
+  <img src="/_docs/assets/Ejemplo_3D.png"/>
+  <img src="/_docs/assets/Video_Lobby.png"/>
+  <img src="/_docs/assets/Video_Ejemplo.png"/>
+  <img src="/_docs/assets/Documentacion_Lobby.png"/>
+  <img src="/_docs/assets/Documentacion_Ejemplo.png"/>
+ </p>
 
 ## Explicación de la estructura de la aplicación ⚙️
 ### Menú inicial 🏠
  
-![Menu inicial](/_docs/assets/Menu.png)
+<p align="center">
+  <img src="/_docs/assets/Menu.png" alt="Menu inicial"/>
+</p>
 
 De arriba a abajo:
 - El botón con la X tiene como función cerrar la aplicación.
 - Al presionar el botón "Módulo AR" se abrirá el siguiente panel:
 
-![Seleccion AR](/_docs/assets/Menu_Seleccion_AR.png)
+<p align="center">
+  <img src="/_docs/assets/Menu_Seleccion_AR.png" alt="Seleccion AR"/>
+</p>
 
 - En este menú podrá elegir el modo de visualización en realidad aumentada. Puede ser por Target (Celulares sin capacidad ARCore) o por el metodo tradicional de ARCore.
 - Al presionar el botón "Módulo 3D" será transportado a elegir el modelo que desea visualizar.
 - Al presionar el botón "Módulo de video" se abrirá el siguiente panel:
 
-![Seleccion Video](/_docs/assets/Seleccion_Video.png)
+<p align="center">
+  <img src="/_docs/assets/Seleccion_Video.png" alt="Seleccion Video"/>
+</p>
 
 - En este menú podrá elegir el modo de visualización de los videos. (Este puede ser cambiado dentro de cada video también).
 - Al presionar el botón "Módulo de documentación" será transportado a elegir el documento que está dispuesto como material de apoyo, también en la plataforma. [Aquí](/_docs/assets/Volumenes_de_solidos.pdf)
@@ -50,19 +57,25 @@ De arriba a abajo:
 ### Módulo 3D 🧊
 
 ![3D Lobby]()
-![Ejemplo 3D](/_docs/assets/Ejemplo_3D.png)
+<p align="center">
+  <img src="/_docs/assets/Ejemplo_3D.png" alt="Ejemplo 3D"/>
+</p>
 
 ### Módulo de video 📽️
 
-![Lobby Video](/_docs/assets/Video_Lobby.png)
-![Ejemplo Video](/_docs/assets/Video_Ejemplo.png)
+<p align="center">
+  <img src="/_docs/assets/Video_Lobby.png" alt="Lobby Video"/>
+</p>
+<p align="center">
+  <img src="/_docs/assets/Video_Ejemplo.png" alt="Ejemplo Video"/>
+</p>
 
 ### Módulo de documentación 📖
 
-![Lobby Documentacion](/_docs/assets/Documentacion_Lobby.png)
-![Ejemplo Documentacion](/_docs/assets/Documentacion_Ejemplo.png)
-
-
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="/_docs/assets/Documentacion_Lobby.png" alt="Lobby Documentacion"/>
 </p>
+<p align="center">
+  <img src="/_docs/assets/Documentacion_Ejemplo.png" alt="Ejemplo Documentacion"/>
+</p>
+
