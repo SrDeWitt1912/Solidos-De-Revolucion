@@ -23,3 +23,10 @@ De arriba a abajo:
 
 ### Módulo AR (Target) 🧊
 
+### Módulo AR (ARCore) 🧊
+
+### Módulo 3D 🧊
+
+### Módulo de video 📽️
+
+### Módulo de documentación 📖
