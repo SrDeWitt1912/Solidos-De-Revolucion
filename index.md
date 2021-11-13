@@ -22,7 +22,7 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
 ### Menú inicial 🏠
  
 <p align="center">
-  <img src="/_docs/assets/Menu.png" alt="Menu inicial"/>
+  <img src="https://github.com/SrDeWitt1912/Solidos-De-Revolucion/blob/8d30a3cf00523971aca47596cc2b091fddde8cdf/_docs/assets/Menu.png" alt="Menu inicial"/>
 </p>
 
 De arriba a abajo:
