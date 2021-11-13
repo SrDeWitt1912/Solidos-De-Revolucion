@@ -56,11 +56,6 @@ De arriba a abajo:
 
 ### Módulo 3D 🧊
 
-![3D Lobby]()
-<p align="center">
-  <a href="https://ibb.co/68bmH86"><img src="https://i.ibb.co/jzGTyz7/Ejemplo-3-D.png" alt="Ejemplo-3-D" border="0"></a>
-</p>
-
 En el módulo 3D podrás acceder a un entorno virtual con tintes de interactividad que incluye las siguientes caracteristicas:
 - Movimiento en 3 dimensiones (Rotación, Zoom).
 - Visualización de malla triangulada (Doble toque sobre el sólido).
@@ -68,21 +63,26 @@ En el módulo 3D podrás acceder a un entorno virtual con tintes de interactivid
 - Visualización de planos que cortan a la figura (Activables individualmente).
 - Visualización de ejes cartesianos (Activables individualmente).
 
+![3D Lobby]()
+<p align="center">
+  <a href="https://ibb.co/68bmH86"><img src="https://i.ibb.co/jzGTyz7/Ejemplo-3-D.png" alt="Ejemplo-3-D" border="0"></a>
+</p>
+
 ### Módulo de video 📽️
+
+En el módulo de video podrás acceder a un menu deslizable de videos ordenados del mismo modo que la [documentación](/_docs/assets/Volumenes_de_solidos.pdf), este material puede reproducirse tanto vertical como horizontalmente (Esta opción puede cambiarse dentro de cada vídeo).
 
 <p align="center">
   <a href="https://ibb.co/svs97V0"><img src="https://i.ibb.co/7Jrth1w/Video-Lobby.png" alt="Video-Lobby" border="0"></a>
-</p>
-<p align="center">
   <a href="https://ibb.co/brNM773"><img src="https://i.ibb.co/fCrzQQS/Video-Ejemplo.png" alt="Video-Ejemplo" border="0"></a>
 </p>
 
 ### Módulo de documentación 📖
 
+En el módulo de documentación podrá tener acceso dentro de la aplicación a la [documentación](/_docs/assets/Volumenes_de_solidos.pdf), desde aquí podrá revisar los contenidos tratados en los videos en caso de requerirlo, para cambiar de página ha de pulsar el icono con forma de libro abierto y seleccionar la pagina que busca del menu deslizable que aparece tras la acción.
+
 <p align="center">
   <a href="https://ibb.co/9wZJ41s"><img src="https://i.ibb.co/tZLS2v8/Documentacion-Lobby.png" alt="Documentacion-Lobby" border="0"></a>
-</p>
-<p align="center">
   <a href="https://ibb.co/CBTkS1H"><img src="https://i.ibb.co/Y2qzVRL/Documentacion-Ejemplo.png" alt="Documentacion-Ejemplo" border="0"></a>
 </p>
 
