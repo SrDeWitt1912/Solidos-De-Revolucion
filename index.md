@@ -10,7 +10,7 @@ Tras leer la documentación puedes pasar a descargar el APK para instalar la apl
 ![Menu inicial](/_docs/assets/Menu.png)
 ![Seleccion AR](/_docs/assets/Menu_Seleccion_AR.png)
 ![Seleccion Video](/_docs/assets/Seleccion_Video.png)
-
+![Ejemplo 3D](/_docs/assets/Ejemplo_3D.png)
 ![Lobby Video](/_docs/assets/Video_Lobby.png)
 ![Ejemplo Video](/_docs/assets/Video_Ejemplo.png)
 ![Lobby Documentacion](/_docs/assets/Documentacion_Lobby.png)
@@ -39,9 +39,18 @@ De arriba a abajo:
 
 ### Módulo AR (Target) 🧊
 
+![AR Lobby]()
+![AR Target Ejemplo]()
+
 ### Módulo AR (ARCore) 🧊
 
+![AR Lobby]()
+![ARCore Ejemplo]()
+
 ### Módulo 3D 🧊
+
+![3D Lobby]()
+![Ejemplo 3D](/_docs/assets/Ejemplo_3D.png)
 
 ### Módulo de video 📽️
 
