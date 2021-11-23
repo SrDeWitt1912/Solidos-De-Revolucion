@@ -3,7 +3,7 @@
 Tras leer la documentación puedes pasar a descargar el APK para instalar la aplicación.
 
 - Descarga la versión ligera que **requiere** conexión a internet. [**Aquí**]()
-- Descarga la versión completa que **NO requiere** conexión a internet. [**Aquí**](https://uc5b30cf1d2c16df50143e0f7d2b.dl.dropboxusercontent.com/cd/0/get/BaioLPTMjd4XjPULKcBjeQqd4Ozo8LIjnWitIJBoOx81XO4EN5OQy55TEZi9uch3RyTc1IoYOF93speZWqRGA7MelzdnzeA0x_sQI3lPhUna8fEjixe8pv7v7Elcw-oYhNQ0guaLSVliirQgIXIgMoYv/file#)
+- Descarga la versión completa que **NO requiere** conexión a internet. [**Aquí**](https://u.pcloud.link/publink/show?code=XZXPIIXZXJDk7NJGkxfkrAvYDD86BXrGKii7)
 
 ## Vistazo de la aplicación 👁
 
